@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Прога\External Sort index map\main.cpp(64,34): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\Прога\External Sort index map\main.cpp(159,22): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+  Sequence.cpp
+  Создание кода...
+  External Sort index map.vcxproj -> D:\Прога\External Sort index map\x64\Debug\External Sort index map.exe
